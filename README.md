@@ -69,9 +69,9 @@ assign diff_s=a^b^bin;
 assign borr_s=(~a&~b&~bin)|(~a&b&~bin)|(~a&b&bin)|(a&b&bin);
 endmodule
 ```
-**Developed by: Ameen Basha A**
+**Developed by: Preethi D**
 
-**RegisterNumber: 212224220008**
+**RegisterNumber: 212224040250**
 
 
 **RTL Schematic**
